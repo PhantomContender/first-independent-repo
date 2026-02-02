@@ -20,3 +20,4 @@ console.log(name.toUpperCase());
 }
 greet ('vulkan')
 greet ('adam')
+greet ('prometheus')
