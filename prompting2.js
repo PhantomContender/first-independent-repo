@@ -12,4 +12,4 @@ const calculate = (a, b, op) => {
 // Usage:
 console.log(calculate(50, 8, '*')); // 12
 console.log(calculate(500, 3, '-')); // 5
-console.log(calculate(500, 3, '/')); // 5
+console.log(calculate(200, 3, '+')); // 5
